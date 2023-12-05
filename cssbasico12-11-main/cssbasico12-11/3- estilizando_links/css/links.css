@@ -1,0 +1,22 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+
+p{
+   color:rgb(4, 0, 255); 
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 20px;
+    color:brown;
+}
+
+a:hover{
+    color:rgb(38, 0, 255);
+}

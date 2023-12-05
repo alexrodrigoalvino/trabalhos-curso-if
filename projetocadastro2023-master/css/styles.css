@@ -1,0 +1,397 @@
+header {
+    background: #20B2AA;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100px;
+    box-shadow: 5px 5px 5px 5px rgba(0,128,128);
+    padding: 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: arial;
+    font-size: 12px; 
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 10pt;
+    
+}
+
+fieldset{
+    width: auto;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: left;
+}
+
+
+.custom-texto1{
+    width: 60%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.custom-box{
+    width: 70%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.custom-box2{
+    width: 70%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.custom-box3{
+    width: 70%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.custom-listabanco{
+    width: 65%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: left;
+}
+
+.custom-upload{
+    width: 70%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.custom-botaofinalizar{
+    width: 40%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: left;
+}
+
+.custom-logint{
+    width: 40%;
+    height: auto;
+    color:rgb(0, 0, 0);
+    background-color:  rgba(32, 178, 170, 0.4);
+    border-radius: 20px;
+    border: none;
+    text-align: left;
+}
+
+
+
+legend{
+    border: none;
+    padding: 5px;
+    text-align: center;
+    background-color: #20B2AA;
+    border-radius: 8px;
+    color: white;
+    font-size: 10pt;
+}
+        
+px{
+    font-weight: bold;
+    color: rgb(250, 0, 0);
+    font-size: 12pt;
+    text-align: center;
+}
+obs{
+    font-weight: bold;
+    color: rgb(250, 0, 0);
+    font-size: 8pt;
+}
+
+#funcao{
+    font-size: 12px;
+    width: 200px;
+}
+
+input.inputUserValor{
+    font-size: 12px;
+    width: 80px;
+    text-align: center;
+}
+
+input.inputUserValor{
+    font-size: 12px;
+    width: 80px;
+    text-align: center;
+}
+
+input.inputUserEtapa{
+    font-size: 12px;
+    width: 120px;
+    text-align: center;
+}
+
+#etapa{
+    font-size: 12px;
+    width: 200px;
+    text-align: center;
+}
+
+input.inputUserNome{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+#sexo{
+    font-size: 12px;
+    width: 350px;
+}
+
+input.inputUserDate{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserCpf{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserRg{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserPis{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserNomesocial{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserEmail{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserTel{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserCel{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserCep{
+    font-size: 12px;
+    width: 150px;
+    text-align: left;
+}
+
+input.inputUserEnd{
+    font-size: 12px;
+    width: 250px;
+    text-align: left;
+}
+
+input.inputUserNum{
+    font-size: 12px;
+    width: 50px;
+    text-align: left;
+}
+
+input.inputUserBai{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserCid{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserNomeAg{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserAg{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserNumeroconta{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+input.inputUserCodigob{
+    font-size: 12px;
+    width: 350px;
+    text-align: left;
+}
+
+t{
+    font-size: 14px;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+.botao-customizado {
+    background-color: #f1f1f1; /* Cor de fundo do botão (substitua pela cor desejada) */
+    color: #00b7ff; /* Cor do texto do botão (substitua pela cor desejada) */
+    font-size: 14px; /* Tamanho da fonte do botão (substitua pelo tamanho desejado) */
+    font-weight: bold;
+    width: 250px; /* Largura do botão (substitua pelo tamanho desejado) */
+    height: 30px; /* Altura do botão (substitua pelo tamanho desejado) */
+    padding: 5px; /* Espaçamento interno do botão (ajuste conforme necessário) */
+    border: none; /* Remove a borda do botão */
+    cursor: pointer; /* Altera o cursor ao passar o mouse sobre o botão */
+}
+
+.botao-customizado:hover {
+    background-color: #5bb2ec; /* Nova cor de fundo quando o mouse passar sobre o botão (substitua pela cor desejada) */
+    color: #000000; /* Nova cor do texto quando o mouse passar sobre o botão (substitua pela cor desejada) */
+}
+
+
+/* Estilos para o Botão 1 */
+.botao1 {
+    background-color: #c7d0d6;
+    color: #000000;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+/* Estilos para o Botão 2 */
+.botao2 {
+    background-color: #c7d0d6;
+    color: #000000;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+/* Estilos para o Botão 3 */
+.botao3 {
+    background-color: #c7d0d6;
+    color: #000000;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+/* Estilos para o Botão 4 */
+.botao4 {
+    background-color: #c7d0d6;
+    color: #000000;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    font-weight: bold;
+    font-size: 14px;
+
+   
+    
+}
+
+.botao1:hover {
+    background-color: #1c95e6; /* Nova cor de fundo quando o mouse passar sobre o botão (substitua pela cor desejada) */
+    color: #000000; /* Nova cor do texto quando o mouse passar sobre o botão (substitua pela cor desejada) */
+}
+
+.botao2:hover {
+    background-color: #1c95e6; /* Nova cor de fundo quando o mouse passar sobre o botão (substitua pela cor desejada) */
+    color: #000000; /* Nova cor do texto quando o mouse passar sobre o botão (substitua pela cor desejada) */
+}
+
+.botao3:hover {
+    background-color: #1c95e6; /* Nova cor de fundo quando o mouse passar sobre o botão (substitua pela cor desejada) */
+    color: #000000; /* Nova cor do texto quando o mouse passar sobre o botão (substitua pela cor desejada) */
+}
+
+.botao4:hover {
+    background-color: #1c95e6; /* Nova cor de fundo quando o mouse passar sobre o botão (substitua pela cor desejada) */
+    color: #000000; /* Nova cor do texto quando o mouse passar sobre o botão (substitua pela cor desejada) */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

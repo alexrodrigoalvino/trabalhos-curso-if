@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #conteudo {
+    width: 100%;
+    display: flex;
+  }
+  
+  #coluna-esquerda {
+    width: 30%;
+    background-color: red;
+  }
+  
+  #coluna-direita {
+    width: 70%;
+    background-color: blue;
+  }
+
